@@ -1,6 +1,5 @@
 # BloodCall
-
-🏆- Top 10  - GDSC Solution Challenge 2022
+GDSC Solution Challenge 2023
 
 <img src="https://firebase.google.com/downloads/brand-guidelines/PNG/logo-built_white.png" width="100"/> <img src="https://1000logos.net/wp-content/uploads/2020/05/Google-Maps-Logo.png" width="100"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Android_logo_2019_%28stacked%29.svg/2346px-Android_logo_2019_%28stacked%29.svg.png" width="100">
 
@@ -68,15 +67,3 @@ For more information, visit https://www.gnu.org/licenses/gpl-3.0 or see included
 If you wish to build this project you should make your own firebase project, and use your own firebase json. The project should be on the blaze plan, and have a realtime database, cloud functions, storage and authentication enabled.Other than that it should be built just by opening the project in android studio.
 
 ## Distribution 📦
-An APK file is provided in the "Releases" section.
-
-[Version: 1.0](https://github.com/BloodCall/BloodCall/releases/tag/1.0)
-<br>
-[Version: 2.0](https://github.com/BloodCall/BloodCall/releases/tag/2.0)
-
-## Authors 📃
-Contact Us : bloodcallteam@gmail.com
-- Athanasios Bimpas [Github](https://github.com/thanbimp)
-- Georgios Kitsakis [Github](https://github.com/kitsakisGk)
-- Georgios Kourounis [Github](https://github.com/kourounisgiorgos)
-- Stefanos Togias [Github](https://github.com/Bleemoose)
