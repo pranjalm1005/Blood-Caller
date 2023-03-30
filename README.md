@@ -65,5 +65,3 @@ For more information, visit https://www.gnu.org/licenses/gpl-3.0 or see included
 
 ## Build Information 🧰 
 If you wish to build this project you should make your own firebase project, and use your own firebase json. The project should be on the blaze plan, and have a realtime database, cloud functions, storage and authentication enabled.Other than that it should be built just by opening the project in android studio.
-
-## Distribution 📦
